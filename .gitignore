@@ -1,0 +1,6 @@
+./generator/.env
+./backend/.env
+./frontend/.env
+./charger/.env
+./client/.env
+
